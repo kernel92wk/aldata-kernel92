@@ -2,3 +2,4 @@ aldata project
 - Membuat web
 - Membuat struktur database
 - Publish
+- Kolaborasi dengan om wisnu
