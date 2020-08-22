@@ -1,0 +1,4 @@
+aldata project
+- Membuat web
+- Membuat struktur database
+- Publish
